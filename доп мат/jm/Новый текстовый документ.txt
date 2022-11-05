@@ -1,0 +1,50 @@
+- Всего есть 8 разделов (core-1, core-2 многопоточность, sql, hibernate, spring, паттерны, алгоритмы)
+Их нужно сдавать по порядку
+- Готовишься сначала к одному и когда готов сдавать записываешься на сдачу в форму, прикреплённую сверху. Также не обязательно, но желательно слушать как сдают другие даже если ты не сдаёшь.
+- Сейчас мы сдаём тем, кто прошёл дальше по разделам. То есть в дальнейшем ты сам сможешь проверять блок у другого, если сам сдал этот блок.
+
+Чтобы записаться на сдачу раздела вам необходимо написать личное сообщение Анастасии (https://vk.com/anastasyailina), укажите раздел и удобное время для сдачи в текущий и следующий дни. Анастасия найдет для вас принимающего, после чего вам необходимо самостоятельно написать принимающему и окончательно утвердить время, внеся данные в таблицу.
+
+Писать Анастасии можно в будние дни (пн-пт), если вы хотите найти принимающего в выходные - вам необходимо самостоятельно написать в конференцию или в личные сообщения тому, кто уже сдал раздел.
+
+В конце когда сдал все блоки. Будет большой созвон со Станиславом Сорокиным сразу по всем разделам (как собес).
+
+Запись на сдачу
+https://vk.com/away.php?to=https://docs.google.com/sp..
+
+Таблица с прогрессом прохождения:
+https://vk.com/away.php?to=https://docs.google.com/sp..
+
+Вопросы:
+https://vk.com/away.php?to=https://docs.google.com/do..
+(При сдаче можно спрашивать только вопросы из этого списка или дополнительные вопросы к ним)
+
+Обязательные задачи SQL:
+https://vk.com/away.php?to=https://habr.com/ru/post/1..
+
+Материалы для подготовки:
+
+Core:
+https://vk.com/away.php?to=https://docs.google.com/do..
+
+Многопоточность:
+https://vk.com/away.php?to=https://docs.google.com/do..
+
+SQL:
+https://vk.com/away.php?to=https://docs.google.com/do..
+
+Hibernate:
+https://vk.com/away.php?to=https://docs.google.com/do..
+
+Заметки по Hibernate:
+https://vk.com/away.php?to=https://docs.google.com/do..
+
+Spring:
+https://vk.com/away.php?to=https://docs.google.com/do..
+
+Паттерны:
+https://vk.com/away.php?to=https://docs.google.com/do..
+https://refactoring.guru/ru
+https://vk.com/away.php?to=https://github.com/enhorse..
+Алгоритмы:
+https://vk.com/away.php?to=https://docs.google.com/do..
